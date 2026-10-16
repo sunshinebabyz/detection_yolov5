@@ -1,4 +1,4 @@
-# detection_yolov5
+
 # Object Detection Using YOLOv5
 
 A computer vision project that applies YOLOv5 to detect objects in images and webcam video. The project includes dataset preparation, model training, object detection, and a web-based demo for image uploads.
