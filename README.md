@@ -104,5 +104,5 @@ Detection outputs can be reviewed visually using the generated bounding boxes an
 
 
 
-Academic project for the course *Data Storage and Mining*.
+
 
